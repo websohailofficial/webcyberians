@@ -1,0 +1,13 @@
+{
+  "name": "landesberg-design/acf-extended-pro",
+  "type": "wordpress-plugin",
+  "description": "",
+  "require": {
+    "php": ">=5.6"
+  },
+  "authors": [
+    {
+      "name": "ACF Extended"
+    }
+  ]
+}
